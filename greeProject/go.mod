@@ -6,6 +6,7 @@ require github.com/astaxie/beego v1.12.2
 
 require (
 	github.com/OwnLocal/goes v1.0.0 // indirect
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/prometheus/common v0.14.0 // indirect
 	github.com/prometheus/procfs v0.2.0 // indirect
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
